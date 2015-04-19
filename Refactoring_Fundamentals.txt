@@ -1,0 +1,9 @@
+Iceberg class - a class that have a few public methods but a lot private methods. The private behavior could be extracted as public interface within another class.
+
+repostories Get, save, listall 
+
+violating different abstraction levels
+
+If cyclo-complexity 4 = need 4 (unit)tests! 
+
+weiter mit 104.29 Roll the dice
